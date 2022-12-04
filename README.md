@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning React Libraries<br><br>🤝 I’m looking for help with Web projects<br><br>📫 How to reach me.. link below!<br><br><br><br>
+🌱 I’m currently learning React Libraries<br>🤝 I’m looking for help with Web projects<br>😄 Pronouns: He/Him <br>
+⚡ Fun fact: I am Happy.<br>📫 How to reach me.. link below!<br><br><br><br>
 
 
 ## 🌐 Socials:
